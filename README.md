@@ -73,6 +73,5 @@ SpaceX advertises the launch of Falcon9 rocket with a cost of 62 million dollars
 		
 		
 	
-!
 
   
